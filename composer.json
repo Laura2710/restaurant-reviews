@@ -1,0 +1,14 @@
+{
+  "name": "laura/m7_tp_final",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Laura TOMASINI"
+    }
+  ],
+  "require": {}
+}
