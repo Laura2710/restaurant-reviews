@@ -5,7 +5,7 @@ Ce mini-projet est un site web recensant des restaurants et les avis des interna
 Il a été développé dans le cadre d'un devoir pour l'ENI et et vise à mettre en place une architecture MVC (Modèle-Vue-Contrôleur).
 
 ## 🛠️ Prérequis
-- PHP 7.4 ou supérieur
+- PHP 7.0 ou supérieur
 - Composer
 - Un serveur MySQL
 
